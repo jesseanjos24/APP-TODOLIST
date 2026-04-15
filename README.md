@@ -1,6 +1,6 @@
 # 📝 ToDo List Desktop — by Jessé
 
-Um aplicativo desktop moderno de lista de tarefas (To-Do) desenvolvido com **PySide6 (Qt)**, focado em produtividade, organização e experiência visual inspirada em ferramentas como Todoist e VS Code.
+Um aplicativo desktop moderno de lista de tarefas (To-Do) desenvolvido com **PySide6 (Qt)**, focado em produtividade, organização e experiência visual inspirada em ferramentas como Todoist.
 
 ---
 
@@ -164,9 +164,3 @@ Desenvolvido por **Jessé** 🚀
 Este projeto começou como prática e evoluiu para um **aplicativo desktop completo**, com arquitetura organizada, persistência profissional e experiência moderna.
 
 ---
-
-🔥 Se quiser evoluir ainda mais:
-
-* adicionar banco de dados (SQLite)
-* criar versão SaaS
-* transformar em produto comercial
