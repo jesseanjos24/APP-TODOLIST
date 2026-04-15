@@ -1,0 +1,24 @@
+# Arquivos compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos de build
+build/
+dist/
+*.spec
+
+# Configurações locais
+*.log
+*.sqlite3
+
+#outros arquivos
+data/saves/
+todoist-2.xcf
+ui/guia.css
+ui/inde.html
+data/saves/tasks.json
