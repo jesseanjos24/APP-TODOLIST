@@ -17,9 +17,11 @@ dist/
 *.sqlite3
 
 #outros arquivos
+ui\copia_desegurança.py
+ui/copia_desegurança.py
 data/saves/
 todoist-2.xcf
 ui/guia.css
 ui/inde.html
 data/saves/tasks.json
-ui/copia_desegurança.py
+futures.md
