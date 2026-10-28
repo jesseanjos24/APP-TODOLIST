@@ -91,7 +91,7 @@ C:\Users\SEU_USUARIO\AppData\Local\TDList\tasks.json
 
 Baixe o instalador:
 
-👉 https://drive.google.com/drive/folders/1WL7nTFKgIBtziSDGANU8G6u7xwv-NdyT?usp=sharing
+👉 https://drive.google.com/file/d/107rG-FSHR5A5dvtM011-SLbB8GVOeA9I/view?usp=sharing
 
 ---
 
